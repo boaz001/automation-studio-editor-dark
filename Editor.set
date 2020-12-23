@@ -5,6 +5,7 @@
     <Category Name="Editor">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="DataType">
@@ -51,6 +52,7 @@
     <Category Name="TextEditor">
       <Font Name="Consolas" Size="11" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="DataType">
@@ -115,6 +117,7 @@
     <Category Name="Graphical Editor">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="DataType">
@@ -152,6 +155,7 @@
     <Category Name="CompareEditor">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="Text">
@@ -193,6 +197,7 @@
     <Category Name="ProjectExplorer">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="Text">
@@ -206,6 +211,7 @@
     <Category Name="Output">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="Errors">
@@ -275,6 +281,7 @@
     <Category Name="PropertyWindow">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="Text">
