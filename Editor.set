@@ -231,14 +231,16 @@
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="Text">
+          <ForeColor Red="248" Green="248" Blue="242" />
         </Item>
         <Item Name="TextSelection">
+          <ForeColor Red="248" Green="248" Blue="242" />
         </Item>
         <Item Name="LadderPowerFlow">
           <ForeColor Red="0" Green="0" Blue="255" />
         </Item>
         <Item Name="Value">
-          <ForeColor Red="0" Green="0" Blue="0" />
+          <ForeColor Red="230" Green="230" Blue="250" />
         </Item>
         <Item Name="ForceValue">
           <ForeColor Red="255" Green="0" Blue="0" />
