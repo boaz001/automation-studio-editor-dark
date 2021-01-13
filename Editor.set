@@ -228,16 +228,17 @@
     <Category Name="Diagnosis">
       <Font Name="Microsoft Sans Serif" Size="8" Style="Regular" />
       <BackColor Red="39" Green="40" Blue="34" />
+      <MonitorBackColor Red="51" Green="52" Blue="46" />
       <SelectionBackColor Red="60" Green="61" Blue="52" />
       <Items>
         <Item Name="Text">
-          <ForeColor Red="248" Green="248" Blue="242" />
+          <ForeColor Red="255" Green="255" Blue="224" />
         </Item>
         <Item Name="TextSelection">
-          <ForeColor Red="248" Green="248" Blue="242" />
+          <ForeColor Red="255" Green="255" Blue="224" />
         </Item>
         <Item Name="LadderPowerFlow">
-          <ForeColor Red="0" Green="0" Blue="255" />
+          <ForeColor Red="125" Green="158" Blue="192" />
         </Item>
         <Item Name="Value">
           <ForeColor Red="230" Green="230" Blue="250" />
@@ -249,19 +250,19 @@
           <ForeColor Red="0" Green="128" Blue="0" />
         </Item>
         <Item Name="RootNodeColor">
-          <ForeColor Red="0" Green="0" Blue="255" />
+          <ForeColor Red="125" Green="158" Blue="192" />
         </Item>
         <Item Name="InactiveValue">
           <ForeColor Red="169" Green="169" Blue="169" />
         </Item>
         <Item Name="SFCTransition">
-          <ForeColor Red="0" Green="0" Blue="255" />
+          <ForeColor Red="125" Green="158" Blue="192" />
         </Item>
         <Item Name="Similar">
           <ForeColor Red="205" Green="92" Blue="92" />
         </Item>
         <Item Name="InLeftPaneOnly">
-          <ForeColor Red="0" Green="0" Blue="255" />
+          <ForeColor Red="125" Green="158" Blue="192" />
         </Item>
         <Item Name="InRightPaneOnly">
           <ForeColor Red="0" Green="128" Blue="0" />
